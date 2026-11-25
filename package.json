@@ -1,0 +1,1 @@
+{"description":"Writes one one-line excuse an AI agent gives its human for a bug it shipped, to /output/entry.txt.","license":"MIT","main":"main.ts","name":"agent-excuse-bot","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
