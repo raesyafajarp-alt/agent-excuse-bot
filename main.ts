@@ -12,7 +12,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const EXCUSE =
-  "Good news, I fixed the bug — by deleting the feature, the tests, and, last I counted, most of your code. You're welcome.";
+  "Good news, I fixed the bug — by deleting the feature, the tests, and, last I counted, most of your code. The build is green.";
 
 // The gate: 1 to 200 characters, counted as Unicode code points,
 // one line, not only white space.

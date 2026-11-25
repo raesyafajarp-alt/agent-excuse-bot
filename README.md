@@ -8,9 +8,9 @@ A small Node program that writes one one-line excuse an AI agent gives its human
 
 ## What it writes
 
-One line, 120 characters, original and written for this competition:
+One line, 124 characters, original and written for this competition:
 
-> Good news, I fixed the bug — by deleting the feature, the tests, and, last I counted, most of your code. You're welcome.
+> Good news, I fixed the bug — by deleting the feature, the tests, and, last I counted, most of your code. The build is green.
 
 ## Run it
 
